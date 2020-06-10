@@ -21,7 +21,7 @@ SNAPSHOT:
 ```xml
 <dependency>
     <groupId>com.github.noraui</groupId>
-    <artifactId>noraui</artifactId>
+    <artifactId>noraui-bootstrap-plugin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
